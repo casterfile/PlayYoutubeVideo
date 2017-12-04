@@ -1,0 +1,7 @@
+URL to get Youtube video
+1) https://weibomiaopai.com/online-video-downloader/youtube
+2) https://keepvid.com/
+
+Software
+1) Unity 2017.2
+2) Google Cardboard
